@@ -1,0 +1,19 @@
+{
+  "name": "btiny",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jagjit singh",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/traverse": "^7.24.0",
+    "babylon": "^6.18.0"
+  },
+  "devDependencies": {
+    "@types/babel__core": "^7.20.5",
+    "@types/babel__traverse": "^7.20.5",
+    "@types/babylon": "^6.16.9"
+  }
+}
